@@ -1,3 +1,3 @@
 # Projeto_sapiens
 
-teste
+Codigo que implementa um modelo de faculdade
